@@ -3,7 +3,7 @@
 
  **Folder Structure:**
  1. **package.json**  file contains all the packages that are being installed for the usage of this application.
- 2. **App.json** file contains the components with the app will begin.
+ 2. **App.js** file contains the components with the app will begin.
  3. **Screen** folder contains all the pages that the app contains.
  4. **Navigation** folder contains all types of navigation used in the app like Stack Navigation, Tab Navigation.
  5. **assets** folder contains the default images used in the app like Icons.
