@@ -9,4 +9,5 @@
  5. **assets** folder contains the default images used in the app like Icons.
  6. **Components** folder contains the pages that are frequently used in the app like products display.
  7. **Constants** folder contains the constant values that are unchanged. Here we have stored the Hexadecimal values for the colors that are used throughout the application.
+ 8. **config.js** file contains the Firebase configuration key.
 
